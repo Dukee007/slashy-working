@@ -68,7 +68,7 @@ Download [NodeJS](https://nodejs.org/)
 Run the following commands in your shell/console:
 
 ```javascript
-git clone https://github.com/TahaGorme/slashy.git
+git clone https://github.com/UNKNOWN17469/slashy-working.git
 ```
 
 ```javascript
