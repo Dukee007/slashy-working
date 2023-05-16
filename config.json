@@ -1,0 +1,81 @@
+{
+	"isBatchTokenFile": false,
+	"tokens": [{
+			"token": "",
+			"channelId": ""
+		},
+		{
+			"token": "",
+			"channelId": ""
+		}
+	],
+	"mainAccount": "",
+	"mainInfo": {
+		"channel": "",
+		"itemToUse": ["Adventure Voucher"],
+		"adventureVoucherPrefer": "Space"
+	},
+	"webhook": "LINK OF WEBHOOK TO USE FOR LOGGING",
+	"transfer": {
+		"transferOnlyMode": false,
+		"serverEventsDonateMode": false,
+		"serverEventsDonateMoney": false,
+		"serverEventsPayout": false,
+		"payoutId": "ID OF USER TO PAY OUT TO"
+	},
+	"commands": [
+		"beg",
+		"postmemes",
+		"fish",
+		"hunt",
+		"dig"
+	],
+	"Blacklistitems": [],
+	"searchLocations": [],
+
+	"autoDeposit": true,
+	"autoSell": false,
+	"autoGift": false, 
+	"autoBuy": false,
+	"autoBuyItems": [],
+	"autoUse": [
+		"Lucky Horseshoe"
+	],
+	  
+	"useDarkendTrivia": false,
+	"cooldowns": {
+		"market": {
+			"minDelay": 3000,
+			"maxDelay": 6000
+		},
+		"buttonClick": {
+			"minDelay": 500,
+			"maxDelay": 650
+		},
+		"trivia": {
+			"minDelay": 600,
+			"maxDelay": 1000
+		},
+		"commandInterval": {
+			"minDelay": 4000,
+			"maxDelay": 4800
+		},
+		"shortBreak": {
+			"minDelay": 30000,
+			"maxDelay": 90000
+		},
+		"longBreak": {
+			"minDelay": 600000,
+			"maxDelay": 4000000
+		},
+		"transfer": {
+			"minDelay": 4000,
+			"maxDelay": 8000
+		},
+		"serverEvents": {
+			"minDelay": 3000,
+			"maxDelay": 5000
+		}
+	}
+}
+

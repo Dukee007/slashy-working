@@ -1,0 +1,1927 @@
+Server started on http://localhost:7500
+[14:08:38] - Version 1.9.5
+[14:08:40] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:08:40] - Error [TOKEN_INVALID]: An invalid token was provided. Promise {
+  <rejected> Error [TOKEN_INVALID]: An invalid token was provided.
+      at WebSocketManager.createShards (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:258:15)
+      at async Client.login (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/Client.js:387:7) {
+    [Symbol(code)]: 'TOKEN_INVALID'
+  }
+}
+[14:08:41] - Logged in as Alone#6812
+[14:08:44] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:08:44] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:08:46] - [0m Alone#6812 - Using command dig
+[14:08:47] - [0m Alone#6812 - Using command hunt
+Server started on http://localhost:7500
+[14:08:50] -  [AntiCrash] >>  Uncaught Exception/Catch (MONITOR)
+[14:08:50] - Error: listen EADDRINUSE: address already in use :::7500 uncaughtException
+[14:08:50] -  [Anti Crash] >>  Uncaught Exception/Catch
+[14:08:50] - Error: listen EADDRINUSE: address already in use :::7500 uncaughtException
+[14:08:50] - [0m Alone#6812 - Using command hunt
+[14:08:50] - Version 1.9.5
+[14:08:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:08:52] - Error [TOKEN_INVALID]: An invalid token was provided. Promise {
+  <rejected> Error [TOKEN_INVALID]: An invalid token was provided.
+      at WebSocketManager.createShards (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:258:15)
+      at async Client.login (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/Client.js:387:7) {
+    [Symbol(code)]: 'TOKEN_INVALID'
+  }
+}
+[14:08:52] - [0m Alone#6812 - Using command beg
+[14:08:54] - Logged in as Alone#6812
+[14:08:56] - [0m Alone#6812 - Using command postmemes
+[14:08:56] - Facebook Intellectual
+[14:08:56] - Facebook
+[14:08:58] - [0m Alone#6812 - Using command fish
+[14:09:00] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:00] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:00] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:00] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:05] - [0m Alone#6812 - Using command beg
+[14:09:08] - [0m Alone#6812 - Using command fish
+[14:09:10] - [0m Alone#6812 - Using command dig
+[14:09:13] - [0m Alone#6812 - Using command postmemes
+[14:09:15] - [0m Alone#6812 - Using command postmemes
+[14:09:17] - [0m Alone#6812 - Using command postmemes
+[14:09:20] - [0m Alone#6812 - Using command hunt
+[14:09:26] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:26] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:26] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:09:26] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:09:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:33] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:33] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:33] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:33] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:38] - [34m Taking a break for 4.169 seconds.
+[14:09:38] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:38] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:09:41] - [0m Alone#6812 - Using command dig
+[14:09:45] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:45] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:45] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:45] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:46] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:46] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:46] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:46] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:09:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:09:56] - [0m Alone#6812 - Using command beg
+[14:10:03] - [0m Alone#6812 - Using command beg
+[14:10:06] - [0m Alone#6812 - Using command beg
+[14:10:09] - [0m Alone#6812 - Using command beg
+[14:10:11] - [0m Alone#6812 - Using command dig
+[14:10:14] - [0m Alone#6812 - Using command beg
+[14:10:17] - [0m Alone#6812 - Using command dig
+[14:10:18] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:10:18] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:10:18] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:10:18] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:10:21] - [0m Alone#6812 - Using command hunt
+[14:10:23] - [0m Alone#6812 - Using command fish
+[14:10:26] - [0m Alone#6812 - Using command hunt
+[14:10:28] - [0m Alone#6812 - Using command hunt
+[14:10:31] - [0m Alone#6812 - Using command postmemes
+[14:10:32] - Reddit Kind
+[14:10:32] - Facebook
+[14:10:35] - [0m Alone#6812 - Using command postmemes
+[14:10:37] - [0m Alone#6812 - Using command hunt
+[14:10:39] - [0m Alone#6812 - Using command fish
+[14:10:43] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:10:43] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:10:43] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:10:43] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:10:44] - [0m Alone#6812 - Using command hunt
+[14:10:46] - [0m Alone#6812 - Using command fish
+[14:10:48] - [0m Alone#6812 - Using command postmemes
+[14:11:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:11:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:11:06] - [0m Alone#6812 - Using command fish
+[14:11:12] - [0m Alone#6812 - Using command fish
+[14:11:12] - [0m Alone#6812 - Using command postmemes
+[14:11:12] - Reddit Fresh
+[14:11:12] - Facebook
+[14:11:13] - Twitter Copypasta
+[14:11:13] - Facebook
+[14:11:15] - [0m Alone#6812 - Using command postmemes
+[14:11:18] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:18] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:11:18] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:18] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:11:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:41] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:11:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:11:41] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:12:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:12:25] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:12:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:12:25] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:13:46] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:13:46] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:13:46] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:13:46] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:13:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:13:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:13:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:13:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:14] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:14] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:14] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:14] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:26] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:26] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:26] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:26] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:52] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:14:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:14:52] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:16:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:16:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:16:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:16:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:16:31] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:16:31] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:16:32] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:16:32] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:20:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:20:22] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:20:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:20:22] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:20:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:20:41] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:20:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:20:41] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:23:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:23:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:23:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:23:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:25:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:25:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:25:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:25:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:27:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:27:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:27:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:27:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:27:56] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:27:56] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:27:59] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:27:59] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:28:01] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:28:01] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:28:01] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:28:01] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:28:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:28:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:28:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:28:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:02] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:02] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:02] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:02] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:20] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:29:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:20] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:29:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:41] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:41] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:41] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:29:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:29:49] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:30:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:30:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:30:05] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:30:05] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:00] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:00] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:00] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:00] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:37] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:37] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:37] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:37] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:48] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:48] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:52] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:31:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:31:52] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:32:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:32:25] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:32:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:32:25] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:32:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:32:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:32:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:32:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:01] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:01] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:01] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:01] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:54] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:54] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:54] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:54] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:58] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:58] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:33:58] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:33:58] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:34:29] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:34:29] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:34:29] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:34:29] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:35:39] - Reddit Intellectual
+[14:35:39] - Facebook
+[14:35:39] - Reddit Intellectual
+[14:35:39] - Facebook
+[14:35:53] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:35:53] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:35:53] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:35:53] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:36:24] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:36:24] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:36:24] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:36:24] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:36:49] - Facebook Copypasta
+[14:36:49] - Facebook
+[14:36:49] - Reddit Copypasta
+[14:36:49] - Facebook
+[14:39:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:39:20] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:39:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:39:20] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:39:28] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:39:28] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:39:28] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:39:28] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:41:09] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:41:09] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:41:09] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:41:09] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:42:31] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:42:31] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:42:31] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:42:31] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:42:37] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:42:37] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:42:37] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:42:37] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:43:15] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:15] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:43:15] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:15] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:43:33] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:33] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:33] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:43:33] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:43:40] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:40] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:43:40] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:43:40] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:44:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:44:25] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:44:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:44:25] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:44:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:44:30] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:44:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:44:30] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:45:07] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:45:07] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:45:07] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:45:07] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:46:32] - Facebook Fresh
+[14:46:32] - Facebook
+[14:46:32] - Facebook Copypasta
+[14:46:32] - Facebook
+[14:47:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:47:49] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:47:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:47:49] - TypeError: Cannot read properties of null (reading 'length') Promise {
+  <rejected> TypeError: Cannot read properties of null (reading 'length')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:692:108)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:47:54] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:47:54] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:47:54] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:47:54] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:48:02] - Discord Kind
+[14:48:02] - Reddit Copypasta
+[14:48:02] - Facebook
+[14:48:02] - Facebook
+[14:48:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:48:22] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:48:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:48:22] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:50:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:50:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:50:25] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:50:25] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:51:12] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:51:12] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:51:12] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:51:12] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:51:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:51:20] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:51:20] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:51:20] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[14:58:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:58:22] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[14:58:22] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[14:58:22] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:08:51] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:08:51] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:08:51] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:08:51] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:09:16] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:09:16] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:09:16] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:09:16] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:09:50] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:09:50] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:09:50] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:09:50] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:13:27] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:13:27] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:13:27] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:13:27] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:13:49] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:13:49] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:13:52] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:13:52] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:15:47] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:15:47] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:15:47] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:15:47] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:16:38] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:16:38] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:16:38] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:16:38] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:16:45] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:16:45] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:16:45] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:16:45] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:17:57] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:17:57] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:17:57] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:17:57] - TypeError: Cannot set properties of null (setting 'name') Promise {
+  <rejected> TypeError: Cannot set properties of null (setting 'name')
+      at Client.<anonymous> (/data/data/com.termux/files/home/slashy/index.js:816:19)
+      at Client.emit (node:events:513:28)
+      at MessageCreateAction.handle (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/actions/MessageCreate.js:30:14)
+      at module.exports [as MESSAGE_CREATE] (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/handlers/MESSAGE_CREATE.js:4:32)
+      at WebSocketManager.handlePacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketManager.js:359:31)
+      at WebSocketShard.onPacket (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:489:22)
+      at WebSocketShard.onMessage (/data/data/com.termux/files/home/slashy/node_modules/discord.js-selfbot-v13/src/client/websocket/WebSocketShard.js:324:10)
+      at WebSocket.onMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/event-target.js:199:18)
+      at WebSocket.emit (node:events:513:28)
+      at Receiver.receiverOnMessage (/data/data/com.termux/files/home/slashy/node_modules/ws/lib/websocket.js:1178:20)
+}
+[15:18:38] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:18:38] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
+[15:18:38] -  [Anti Crash] >>  Unhandled Rejection/Catch
+[15:18:38] - Error: Only absolute URLs are supported Promise {
+  <rejected> Error: Only absolute URLs are supported
+      at Webhook.send (/data/data/com.termux/files/home/slashy/node_modules/discord-webhook-node/src/classes/webhook.js:74:41)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+}
