@@ -1,8 +1,8 @@
 {
 	"isBatchTokenFile": false,
 	"tokens": [{
-			"token": "process.env.TOKEN",
-			"channelId": "process.env.CHANNEL"
+			"token": process.env.token,
+			"channelId": process.env.channel-id"
 		},
 		{
 			"token": "",
